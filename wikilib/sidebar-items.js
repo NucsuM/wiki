@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ErrorType","Error codes as indicator what happened"]],"struct":[["Wiki","Global processing structure"]],"type":[["WikiResult","Common Wiki Result type"]]});
